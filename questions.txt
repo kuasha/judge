@@ -1,0 +1,21 @@
+Learn how to input/ output - take an number as input and print square of it
+Learn how to create an array of size N (say 15) and take that many numbers as input
+Print all the numbers from beginning to end
+Print all the numbers from end to beginning
+Print all odd numbers
+Print all odd numbers in reverse order
+Print all even numbers
+Print all even numbers in reverse order
+Print numbers at odd position and numbers in even position
+Print numbers in odd positions and even positions in reverse order
+Print all number divisible by 3
+Print all numbers divisible by 3 in reverse order
+Calculate the sum of all numbers and show output
+Calculate sum of all numbers at the odd position and sum at the even positions and print the difference between those
+Add 3 to all the numbers and then print the new numbers
+Add 5 to all even numbers and print the entire array
+Go through the entire array and find the smallest and biggest number in it and print the difference
+Reverse the array inplace (without creating a new one)
+Find the minimum item in the array and swap it with the value at index zero, then start from index one and find the minimum number from the rest and swap with item at index one.
+Extend the program in question 19 to do it for all 15 positions (you need a for loop in another for loop
+Leave the number at zero index but for other numbers arrange the numbers in such a order that number at index 1 is smaller than numbers at index 2 and 3. Number at index 2 is smaller than numbers at index 4 and 5. So for each index X the number at X is smaller than number at X*2 and X*2+1.
